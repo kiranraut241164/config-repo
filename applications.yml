@@ -1,8 +1,0 @@
-my:
-    greeting: Hello World!
-    list: one two three four
-    
-db:
-  connection:connection-here
-  host:192.168.43.1
-  port:1200
